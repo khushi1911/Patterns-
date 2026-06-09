@@ -1,5 +1,5 @@
 import java.util.*;
-
+//this is floyd triangle code
 public class floyd_tri {
     public static void main(String[] args) {
         
