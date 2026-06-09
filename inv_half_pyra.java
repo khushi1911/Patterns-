@@ -1,5 +1,5 @@
 import java.util.*;
-
+//inverted half pyramid
 public class inv_half_pyra {
     public static void main(String[] args) {
         
