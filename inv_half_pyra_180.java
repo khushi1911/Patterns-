@@ -1,5 +1,5 @@
 import java.util.*;
-
+// inverted halg pyramid rotated by 180 degree
 public class inv_half_pyra_180 {
     public static void main(String[] args) {
         
